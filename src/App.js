@@ -111,6 +111,7 @@ export default class App extends Component {
         <div>
           <ul>{this.renderList()}</ul>
         </div>
+        thanks
       </div>
     );
   }
